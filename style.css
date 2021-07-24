@@ -1,0 +1,22 @@
+.panda-background{
+    background-color: rgb(252, 232, 236);
+}
+.same-color{
+    color: #ff4b93;
+}
+.pink-background{
+    color:white;
+    background-color: #ff4b93;
+}
+.category-watch-color{
+    background-color: #fd7e14;
+}
+.category-bag-color{
+    background-color: #da70d6;
+}
+.category-shoe-color{
+    background-color: #0000ff;
+}
+span{
+    color:white;
+}
